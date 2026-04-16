@@ -1,0 +1,65 @@
+# Logistics API Basics
+
+## Overview
+This project explains how APIs are used in logistics and transportation systems.
+
+It is designed for beginners to understand how digital systems communicate in real-world logistics operations.
+
+---
+
+## What is an API?
+API (Application Programming Interface) is a system that allows different software applications to communicate with each other.
+
+In logistics, APIs are used to:
+- Track shipments
+- Assign drivers
+- Update delivery status
+- Connect apps with databases
+
+---
+
+## Example in Logistics
+
+### 1. Order Creation
+A customer creates a transport request.
+
+System sends data like:
+- Pickup location
+- Destination
+- Time
+
+---
+
+### 2. Driver Assignment API
+System automatically assigns a driver based on availability.
+
+Response example:
+- Driver ID
+- Vehicle info
+- Estimated time
+
+---
+
+### 3. Tracking API
+Updates shipment status in real time:
+- Picked up
+- In transit
+- Delivered
+
+---
+
+## Why APIs are important in Logistics
+- Faster communication between systems
+- Real-time tracking
+- Automation of manual tasks
+- Better customer experience
+
+---
+
+## Simple Flow
+Customer → System → API → Driver → Delivery → Update Status
+
+---
+
+## Conclusion
+APIs are the backbone of modern logistics systems and enable automation and real-time tracking.
